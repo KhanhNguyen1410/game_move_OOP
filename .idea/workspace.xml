@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0dade07c-72d3-4baa-9439-d96f547fa6ab" name="Default Changelist" comment="" />
+    <list default="true" id="0dade07c-72d3-4baa-9439-d96f547fa6ab" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/game_dua_xe/barrier.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/game_dua_xe/car.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/game_dua_xe/game_dua_xe.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/car.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game_dua_xe.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game_move_simple" beforeDir="false" afterPath="$PROJECT_DIR$/game_move_simple" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game_move_simple/pikachu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game_move_simple/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/game_move_simple/script.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,12 +20,16 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1gtptolgB8renM8GhFhPtc9FCPc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -24,8 +38,14 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../bai_tap_OOP/game_ninnja/script.js" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Phần mềm học tập\Codegym\module1_tuan3\bai_tap_game_car\game_dua_xe" />
+      <recent name="C:\Phần mềm học tập\Codegym\module1_tuan3\bai_tap_game_car" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -35,7 +55,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1598943959653</updated>
-      <workItem from="1598943960825" duration="5575000" />
+      <workItem from="1598943960825" duration="9929000" />
+      <workItem from="1598960386258" duration="2131000" />
+      <workItem from="1599056106858" duration="4355000" />
+      <workItem from="1599094964910" duration="378000" />
     </task>
     <servers />
   </component>
@@ -43,9 +66,9 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="804" y="119" key="FileChooserDialogImpl" timestamp="1598948714222">
+    <state x="804" y="119" key="FileChooserDialogImpl" timestamp="1599061022511">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="804" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1598948714222" />
+    <state x="804" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1599061022511" />
   </component>
 </project>
